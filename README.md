@@ -1,7 +1,7 @@
-#Un header Dynamique
+# Un header Dynamique
 Le but de ce kata est de créer un header dynamique en PHP
 
-##Contraintes
+## Contraintes
 - Le header devra avoir le logo de la Wild de 150px de large à gauche
 - Le header devra avoir un menu de navigation à droite en ligne
 - Le menu de navigation devra être créé dynamiquement à partir d'un tableau PHP
